@@ -6,4 +6,4 @@ The purpose of this repository is to have a running sample of how simple access 
 
 
 ## Intended Flow
-![Intended Flow](https://github.com/amitrangra/access-control/blob/main/intended_flow.JPG)
+![Intended Flow](intended_flow.JPG)
